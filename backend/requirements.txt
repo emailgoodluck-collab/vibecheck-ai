@@ -1,0 +1,7 @@
+# Requirements for VibeCheck AI Backend
+fastapi
+uvicorn
+langgraph
+langchain-openai
+pydantic
+python-dotenv
